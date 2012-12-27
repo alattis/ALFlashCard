@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>card one</key>
+	<array>
+		<string>front card text for card 1</string>
+		<string>back card text for card 1</string>
+		<string>small_image1.png</string>
+		<string>large_image1.png</string>
+	</array>
+	<key>card two</key>
+	<array>
+		<string>front card text for card 2</string>
+		<string>back card text for card 2</string>
+		<string>small_image1.png</string>
+		<string>large_image1.png</string>
+	</array>
+	<key>card three</key>
+	<array>
+		<string>front card text for card 3</string>
+		<string>back card text for card 3</string>
+		<string>small_image1.png</string>
+		<string>large_image1.png</string>
+	</array>
+	<key>card four</key>
+	<array>
+		<string>front card text for card 4</string>
+		<string>back card text for card 4</string>
+		<string>small_image1.png</string>
+		<string>large_image1.png</string>
+	</array>
+</dict>
+</plist>
